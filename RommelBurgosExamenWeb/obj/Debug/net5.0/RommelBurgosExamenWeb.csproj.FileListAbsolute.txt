@@ -1,0 +1,8 @@
+C:\Users\Jorge Dora\source\repos\RommelBurgosExamen\RommelBurgosExamenWeb\obj\Debug\net5.0\RommelBurgosExamenWeb.csproj.AssemblyReference.cache
+C:\Users\Jorge Dora\source\repos\RommelBurgosExamen\RommelBurgosExamenWeb\obj\Debug\net5.0\RommelBurgosExamenWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Dora\source\repos\RommelBurgosExamen\RommelBurgosExamenWeb\obj\Debug\net5.0\RommelBurgosExamenWeb.AssemblyInfoInputs.cache
+C:\Users\Jorge Dora\source\repos\RommelBurgosExamen\RommelBurgosExamenWeb\obj\Debug\net5.0\RommelBurgosExamenWeb.AssemblyInfo.cs
+C:\Users\Jorge Dora\source\repos\RommelBurgosExamen\RommelBurgosExamenWeb\obj\Debug\net5.0\RommelBurgosExamenWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Dora\source\repos\RommelBurgosExamen\RommelBurgosExamenWeb\obj\Debug\net5.0\RommelBurgosExamenWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jorge Dora\source\repos\RommelBurgosExamen\RommelBurgosExamenWeb\obj\Debug\net5.0\RommelBurgosExamenWeb.RazorAssemblyInfo.cache
+C:\Users\Jorge Dora\source\repos\RommelBurgosExamen\RommelBurgosExamenWeb\obj\Debug\net5.0\RommelBurgosExamenWeb.RazorAssemblyInfo.cs
